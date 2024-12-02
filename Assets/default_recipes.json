@@ -1,0 +1,37 @@
+[
+    {
+        "category": "Breakfast",
+        "title": "Pancakes",
+        "description": "Fluffy pancakes with syrup",
+        "ingredients": "Flour, Eggs, Milk, Baking Powder, Sugar, Salt",
+        "instructions": "Mix ingredients, cook on griddle, serve with syrup."
+    },
+    {
+        "category": "Lunch",
+        "title": "Grilled Cheese Sandwich",
+        "description": "Classic grilled cheese sandwich",
+        "ingredients": "Bread, Cheese, Butter",
+        "instructions": "Butter bread, place cheese between slices, grill until golden brown."
+    },
+    {
+        "category": "Dinner",
+        "title": "Spaghetti Bolognese",
+        "description": "Spaghetti with meat sauce",
+        "ingredients": "Spaghetti, Ground Beef, Tomato Sauce, Garlic, Onion, Olive Oil",
+        "instructions": "Cook spaghetti, prepare meat sauce, combine and serve."
+    },
+    {
+        "category": "Dessert",
+        "title": "Chocolate Cake",
+        "description": "Rich chocolate cake",
+        "ingredients": "Flour, Cocoa Powder, Sugar, Eggs, Butter, Baking Powder",
+        "instructions": "Mix ingredients, bake in oven, let cool and serve."
+    },
+    {
+        "category": "Snack",
+        "title": "Fruit Salad",
+        "description": "Fresh fruit salad",
+        "ingredients": "Apple, Banana, Orange, Grapes, Berries",
+        "instructions": "Chop fruits, mix together, serve chilled."
+    }
+]
